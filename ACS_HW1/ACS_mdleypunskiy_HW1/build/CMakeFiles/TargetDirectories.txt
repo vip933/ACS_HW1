@@ -1,0 +1,3 @@
+/Users/maksim/Desktop/ACS_HW1/ACS_mdleypunskiy_HW1/build/CMakeFiles/rebuild_cache.dir
+/Users/maksim/Desktop/ACS_HW1/ACS_mdleypunskiy_HW1/build/CMakeFiles/edit_cache.dir
+/Users/maksim/Desktop/ACS_HW1/ACS_mdleypunskiy_HW1/build/CMakeFiles/project.dir

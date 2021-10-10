@@ -1,0 +1,13 @@
+Average mean of all surface squares of all shapes = 54197.47
+Rearranged container!
+Container contains 10 elements.
+0: It's a tetrahedron: edge = 78, density = 3.90 surface square = 10537.79
+1: It's a tetrahedron: edge = 141, density = 0.44 surface square = 34434.89
+2: It's a parallelepiped: a = 153, b = 85, c = 48, density = 6.90, surface square = 48858.00
+3: It's a ball: raduis = 6, density = 8.48, surface area = 452.39
+4: It's a tetrahedron: edge = 8, density = 9.11 surface square = 110.85
+5: It's a tetrahedron: edge = 73, density = 0.57 surface square = 9230.09
+6: It's a parallelepiped: a = 242, b = 218, c = 43, density = 5.37, surface square = 145072.00
+7: It's a tetrahedron: edge = 217, density = 6.82 surface square = 81560.50
+8: It's a ball: raduis = 72, density = 6.74, surface area = 65144.05
+9: It's a ball: raduis = 108, density = 6.57, surface area = 146574.12
